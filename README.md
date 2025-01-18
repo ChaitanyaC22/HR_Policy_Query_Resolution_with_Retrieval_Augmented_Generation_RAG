@@ -57,7 +57,7 @@ The system follows a series of steps to process documents and generate responses
 2. **HR Policy PDF**: [jp-morgan-chase-code-of-conduct-policy.pdf](./data_files/jp-morgan-chase-code-of-conduct-policy.pdf)  
    Example of a JP Morgan HR policy document for querying.
 
-3. **Model Saving & Quantization**: [Saving_LLM_Quantized_4bit_Model+Tokenizer.ipynb](./Saving_LLM_Quantized_4bit_Model+Tokenizer.ipynb)  
+3. **Model Saving & Quantization**: [Script_For_Saving_LLM_Quantized_4bit_Model+Tokenizer.ipynb](./Script_For_Saving_LLM_Quantized_4bit_Model+Tokenizer.ipynb)  
    Code to download the Mistral-7B-Instruct-v0.2 LLM and its tokenizer, and save the quantized 4-bit version for efficient reloading.
    
 ---
